@@ -1,8 +1,8 @@
 # GoProductsAPI
-![golang](https://github.com/BryanDietrichBernhardt/go-products-api/blob/master/Assets/golang-banner.png)
+![golang](https://github.com/bryandbernhardt/go-products-api/blob/main/assets/golang-banner.png)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/BryanDietrichBernhardt/go-products-api?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/BryanDietrichBernhardt/go-products-api?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/bryandbernhardt/go-products-api?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/bryandbernhardt/go-products-api?style=for-the-badge)
 
 > Product ordering API developed in Go.
 
