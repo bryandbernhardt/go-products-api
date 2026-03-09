@@ -1,0 +1,17 @@
+GET http://localhost:8000/product
+Content-Type: application/json
+
+###
+
+GET http://localhost:8000/product/2
+Content-Type: application/json
+
+###
+
+POST http://localhost:8000/product
+Content-Type: application/json
+
+{
+  "name": "Geladeira Electrolux Frost Free Inverter 322L Efficient AutoSense Inverse Preta IB42G",
+  "price": 4180.37
+}
